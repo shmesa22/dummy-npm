@@ -1,0 +1,22 @@
+{
+  "name": "dummy-npm",
+  "version": "1.0.0",
+  "description": "Npm package sharing exercise",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shmesa22/dummy-npm.git"
+  },
+  "author": "Simon Hoyos <shmesa23@gmail.com> (https://www.linkedin.com/in/simonhoyos)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shmesa22/dummy-npm/issues"
+  },
+  "homepage": "https://github.com/shmesa22/dummy-npm#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
