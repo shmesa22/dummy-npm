@@ -17,7 +17,8 @@
     "test": "mocha src/index.test.js -w",
     "travis-deploy-once": "travis-deploy-once",
     "semantic-release": "semantic-release",
-    "commit": "git-cz"
+    "commit": "git-cz",
+    "clear": "rm -rf ./node_modules"
   },
   "dependencies": {
     "unique-random-array": "1.0.0"
