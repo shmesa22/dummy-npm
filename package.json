@@ -15,6 +15,7 @@
   "homepage": "https://github.com/shmesa22/dummy-npm#readme",
   "scripts": {
     "test": "mocha src/index.test.js -w",
+    "test:single": "mocha src/index.test.js",
     "travis-deploy-once": "travis-deploy-once",
     "semantic-release": "semantic-release",
     "commit": "git-cz",
