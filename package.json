@@ -1,5 +1,5 @@
 {
-  "name": "dummy-npm",
+  "name": "dummy-npm-first-attempt",
   "version": "1.0.0",
   "description": "Npm package sharing exercise",
   "main": "src/index.js",
